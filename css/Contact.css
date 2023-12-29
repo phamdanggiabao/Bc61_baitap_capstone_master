@@ -1,0 +1,99 @@
+.breadcrumbs {
+    margin-top: 90px;
+    padding: 20px 0; }
+  
+nav#breadcrumbs {
+    padding: 15px 20px;
+    background: #F7F9FC; }
+.page-wrapper {
+        color: #2C3038;
+        font-size: 14px; }
+ nav#breadcrumbs a {
+            color: #dc4f72;
+            margin: 0 5px 0 0;
+            font-size: 14px; }
+
+ .w3l-contact {
+                position: relative; }            
+ .header-section {
+                    max-width: 750px;
+                    margin: 0 auto; }                
+ .header-section h2 {
+                       color: #2C3038;
+                        font-size: 46px;
+                        line-height: 55px;
+                        font-weight: 800; }    
+ .w3l-contact .contact-form {
+                            background:#fff;
+                            padding: 2rem;
+                            border-radius: 6px;
+                            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.09);
+                            position: relative;
+                            left: -75px; }  
+ .w3l-contact input.contact-input,
+                            .w3l-contact textarea {
+                              outline: none;
+                              padding: 15px 20px;
+                              border-radius: 0;
+                              color:#2C3038;
+                              font-weight: 600;
+                              width: 100%;
+                              font-size: 16px;
+                              line-height: 26px;
+                              margin-bottom: 15px;
+                              border-radius: 6px;
+                              border: 1px solid #f8f9fa;
+                              background:#F7F9FC; }   
+.w3l-contact textarea {
+                          height: 130px;
+                          resize: none; }     
+ .text-right {
+                            text-align: right; }
+                            
+ .w3l-contact button.btn {
+                            padding: 0px 50px; }  
+ .w3l-contact .contant11-top-bg {
+                                background: #F7F9FC; }     
+ .w3l-contact .contact { grid-template-columns: 1fr; } 
+ .w3l-contact .contact-info-left {grid-template-columns: 1fr 1fr 1fr;
+                                        grid-gap: 50px; } 
+.w3l-contact .contact-info:hover { box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.09);
+                                            transform:translateY(-0.5rem);
+                                            transition: 0.3s ease-in-out; }
+ .w3l-contact .contact-info {  box-shadow: 1px 5px 7.5px rgba(14, 13, 13, 0.2);
+                                padding: 2rem;
+                                  background: #fff;
+                                            border-radius: 6px;
+                                            display: grid;
+                                            grid-template-rows: auto 1fr;
+                                            grid-gap: 20px;
+                                            transition: 0.3s ease-in-out;
+                                            text-align: center; }   
+ .w3l-contact .icon { width: 60px;
+                           margin: 0 auto;
+                            height: 60px;
+                            text-align: center;
+                              border-radius: 50%;
+                                line-height: 60px;
+                         background: rgba(220, 79, 114, 0.1); }                                                                          
+.w3l-contact .contact span.fa {
+                            font-size: 20px;
+                            color:#dc4f72;
+                            line-height: 60px; }  
+ .w3l-contact .contact .fa-envelope{
+    font-size: 20px;
+    color:#dc4f72;
+    line-height: 60px;
+ } 
+.w3l-contact .contact-info h4 {
+                                font-size: 20px;
+                                color:#2C3038;
+                                margin: 0px 0 10px 0;
+                                font-weight: 700; } 
+ .w3l-contact .contact p { font-size: 18px;
+                                    color:#5a5a5a;
+                                    line-height: 28px;
+                                    font-weight: 600; }  
+ .w3l-contact .contact a { display: block;
+                            color: #5a5a5a;
+                           transition: 0.3s ease-in; }                                             
